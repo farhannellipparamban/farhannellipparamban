@@ -56,10 +56,8 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="reactjs">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="redux">
-  
   <br/>
   <br/>
-
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript">
 </div>
@@ -71,23 +69,34 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" align="center" alt="postgresql">
     <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi">
 </div>
 
-  
-  <div align="center"><h3 align="center">Tools</h3> 
-<img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt="netlify"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel"/>
-<img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="render"/>
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" align="center" alt="vscode"/>
-
-   <br/>
 <br/>
- </div>
+
+<div align="center"><h3 align="center">Tools</h3> 
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
+  <img src="https://img.shields.io/badge/git-%23CB3837.svg?style=for-the-badge&logo=git&logoColor=white" align="center" alt="git"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel"/>
+  <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="render"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
+  <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" align="center" alt="nodemon"/>
+    <br/>
+    <br/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" align="center" alt="vscode"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" align="center" alt="aws">
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" align="center" alt="nginx"/>
+  <img src="https://img.shields.io/badge/firebase-%23FF6C38.svg?style=for-the-badge&logo=firebase&logoColor=white" align="center" alt="firebase"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" align="center" alt="socketio"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
+  <img src="https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=white" align="center" alt="vite"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" align="center" alt="figma"/>
 </div>
+</div>
+
 
 <br/>
 <br/>
